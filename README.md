@@ -15,7 +15,7 @@
 
 ## 💡 支持的附属汉化 💡
 <!-- 蓝色按钮 -->
-   <a href="./docs/content.md" style="
+   <a href="./汉化文档/支持列表.md" style="
        display: inline-block;
        padding: 10px 20px;
        background-color: #007bff;
