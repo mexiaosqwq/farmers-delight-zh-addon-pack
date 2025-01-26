@@ -1,4 +1,3 @@
-# farmers-delight-zh-addon
 # Farmer's Delight 汉化附属包
 
 📖 **简介**  
