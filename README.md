@@ -90,6 +90,7 @@
   - vegetablesdelight
   - vintagedelight
   - yucutandelight
+  - Wizardy delight
    还有其他项我没有列举
 
   
@@ -97,7 +98,7 @@
 - **更新日志**  
   | 版本   | 更新内容         |
   |-------|------------------|
-  | v1.9  | 
+  | v1.9  | Wizardy delight模组翻译优化
 
 ---
 
