@@ -9,7 +9,7 @@
 1. **下载文件**：点击右侧 `Releases` 下载 `.zip` 汉化包。  
 2. **安装方法**：  
    - 解压后，将 `zh_cn.json` 放入游戏目录的 `resources/farmersdelight/lang` 文件夹中。  
-3. **反馈问题**：遇到翻译错误？[提交 Issue](https://github.com/你的用户名/仓库名/issues) 或联系邮箱 `yourname@example.com`。
+3. **反馈问题**：遇到翻译错误？[提交 Issue](https://github.com/你的用户名/farmers-delight-zh-addon/issues) 或联系邮箱 `yourname@example.com`。
 
 ---
 
