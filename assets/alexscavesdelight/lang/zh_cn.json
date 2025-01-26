@@ -1,0 +1,30 @@
+{
+  //Foods
+  "item.alexscavesdelight.cooked_heart_of_iron": "熟富铁粘液球",
+  "item.alexscavesdelight.cooked_ferrouslime_ball": "铁石灰球熟肉",
+  "item.alexscavesdelight.heart_of_iron_humburger": "铁心汉堡",
+  "item.alexscavesdelight.ferrouslime_ball_sandwich": "富铁粘液球三明治",
+  "item.alexscavesdelight.toxic_sauce": "毒酱",
+  "item.alexscavesdelight.toxic_hamburger": "毒汉堡",
+  "item.alexscavesdelight.acid_radgill_stew": "酸性拉德吉尔炖肉",
+  "item.alexscavesdelight.pure_darkness_shake": "纯粹黑暗奶昔",
+  "item.alexscavesdelight.acid_juice": "酸液辐射汁",
+  "item.alexscavesdelight.magma_jem": "岩浆果冻",
+  "item.alexscavesdelight.dried_tripodfish": "干制三脚鱼",
+  "item.alexscavesdelight.bioluminesscence_jem": "生物荧光质果冻",
+  "item.alexscavesdelight.bioluminesscence_pie": "生物荧光质派",
+  "item.alexscavesdelight.cooked_sea_pig": "熟海猪",
+  "item.alexscavesdelight.tremorzilla_maet": "特雷莫兹拉肉",
+
+  //Knife
+  "item.alexscavesdelight.azure_neodymium_knife": "天蓝钕刀",
+  "item.alexscavesdelight.scarlet_neodymium_knife": "赤钕刀",
+  "item.alexscavesdelight.uranium_knife": "铀晶刀",
+  "item.alexscavesdelight.tectonic_knife": "板块刀",
+  "item.alexscavesdelight.pearl_knife": "珍珠刀",
+  "item.alexscavesdelight.pure_darkness_knife": "纯粹黑暗刀",
+  "item.alexscavesdelight.candy_knife": "薄荷糖刀",
+  "item.alexscavesdelight.caramel_knife": "焦糖刀",
+  "item.alexscavesdelight.gingerbread_knife": "姜饼刀",
+  "item.alexscavesdelight.sweet_tooth_knife": "蛀牙刀"
+}

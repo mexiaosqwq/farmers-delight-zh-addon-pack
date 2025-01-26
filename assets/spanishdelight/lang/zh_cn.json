@@ -1,0 +1,29 @@
+{
+  "item.spanishdelight.paprika": "辣椒粉",
+  "item.spanishdelight.sliced_potato": "切片土豆",
+  "item.spanishdelight.sliced_onion": "切片洋葱",
+  "item.spanishdelight.garlic": "大蒜",
+  "item.spanishdelight.green_bean": "四季豆",
+  "item.spanishdelight.red_pepper": "红椒",
+  "item.spanishdelight.green_pepper": "青椒",
+  "item.spanishdelight.squid_ring": "鱿鱼圈",
+  "item.spanishdelight.spanish_tortilla": "西班牙土豆饼",
+  "item.spanishdelight.paella": "西班牙海鲜饭",
+  "item.spanishdelight.pil_pil_cod": "皮尔皮尔鳕鱼",
+  "item.spanishdelight.croquettes": "炸丸子",
+  "item.spanishdelight.brava_potatoes": "布拉瓦土豆",
+  "item.spanishdelight.churro": "油条",
+  "item.spanishdelight.gazpacho": "西班牙冷汤",
+  "item.spanishdelight.pantumaca": "番茄面包",
+  "item.spanishdelight.fried_squid_ring": "炸鱿鱼圈",
+
+  "block.spanishdelight.wild_garlic": "野生大蒜",
+  "block.spanishdelight.wild_red_pepper": "野生红椒",
+  "block.spanishdelight.wild_green_pepper": "野生青椒",
+
+  "tooltip.spanishdelight.squid_ring": "用任何刀杀死鱿鱼获得",
+  "tooltip.spanishdelight.green_bean": "与农民村民交易获得",
+  "tooltip.spanishdelight.press_shift": "按 SHIFT 查看信息",
+
+  "creativetab.sdelight_tab": "西班牙乐事"
+}

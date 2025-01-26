@@ -1,0 +1,14 @@
+{
+    "gui.culinaryconstruct.config.ingredientBlacklist.description": "不能作为食材",
+    "gui.culinaryconstruct.config.ingredientBlacklist.name": "禁用食材",
+    "gui.culinaryconstruct.config.maxFoodPerSandwich.description": "吃一个三明治可以获得的最大食物量。",
+    "gui.culinaryconstruct.config.maxFoodPerSandwich.name": "三明治最大食物量",
+    "gui.culinaryconstruct.config.maxIngredientFood.description": "如果大于-1，玩家则不能使用食物值大于此数的食材。",
+    "gui.culinaryconstruct.config.maxIngredientFood.name": "食材最大食用量",
+    "gui.culinaryconstruct.config.maxIngredientSaturation.description": "如果大于-1，玩家不能使用大于这个数值的饱和度作为食材。",
+    "gui.culinaryconstruct.config.maxIngredientSaturation.name": "食材最大饱和度",
+    "gui.culinaryconstruct.config.showNutritionInfo.description": "如果启用，将在扩展提示中显示食物和饱和度数值。",
+    "gui.culinaryconstruct.config.showNutritionInfo.name": "在扩展提示中显示营养信息",
+    "tooltip.culinaryconstruct.nutrition": "营养",
+    "tooltip.culinaryconstruct.saturation": "饱和度"
+}

@@ -1,0 +1,21 @@
+{
+  "item.chococraftdelight.baked_gold_gysahl": "烤金基莎尔",
+  "item.chococraftdelight.raw_pickled_gold_gysahl": "生腌金基莎尔",
+  "item.chococraftdelight.baked_pickled_gold_gysahl": "烤腌金吉沙",
+  "item.chococraftdelight.chocobo_stew": "陆行鸟炖菜",
+  "item.chococraftdelight.stuffed_gold_gysahl": "填馅金基莎尔",
+  "item.chococraftdelight.chocobo_burger": "陆行鸟汉堡",
+  "item.chococraftdelight.chocobo_boots": "陆行鸟靴子",
+  "item.chococraftdelight.gysahl_cake_slice": "基莎尔蛋糕片",
+  "item.chococraftdelight.chocobo_knife": "陆行鸟刀",
+  "item.chococraftdelight.chocobo_juice": "陆行鸟果汁",
+  "item.chococraftdelight.chocobo_head_bowl": "碗盛陆行鸟头",
+  "item.chococraftdelight.chocobo_head": "陆行鸟头",
+
+  "block.chococraftdelight.chocobo_head_block": "填馅陆行鸟头",
+
+  "farmersdelight.tooltip.chocobo_juice": "速度 (1:00)",
+  "farmersdelight.tooltip.chocobo_head_bowl": "营养 (5:00)",
+
+  "creativetab.chocobo_tab": "陆行鸟乐事"
+}

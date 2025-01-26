@@ -1,0 +1,36 @@
+{
+  "item.veggiesdelight.bellpepper": "甜椒",
+  "item.veggiesdelight.smoked_bellpepper": "烟熏甜椒",
+  "item.veggiesdelight.shakshouka": "沙克舒卡",
+  "item.veggiesdelight.stuffed_bellpeppers": "填馅甜椒",
+  "item.veggiesdelight.bellpepper_seeds": "甜椒种子",
+  "item.veggiesdelight.uncooked_mhadjeb": "生Mhadjeb",
+  "item.veggiesdelight.mhadjeb": "Mhadjeb",
+
+  "item.veggiesdelight.cauliflower": "花椰菜",
+  "item.veggiesdelight.cauliflower_seeds": "花椰菜种子",
+  "item.veggiesdelight.cauliflower_floret": "花椰菜花",
+  "item.veggiesdelight.fried_cauliflower_floret": "炸花椰菜花",
+  "item.veggiesdelight.cauliflower_patty": "花椰菜饼",
+  "item.veggiesdelight.cooked_cauliflower_patty": "煮熟的花菜饼",
+  "item.veggiesdelight.cauliflower_soup": "花椰菜汤",
+  "item.veggiesdelight.cauliflower_burger": "花椰菜汉堡",
+  "item.veggiesdelight.sweet_potato": "红薯",
+  "item.veggiesdelight.baked_sweet_potato": "烤红薯",
+  "item.veggiesdelight.mashed_potatoes": "土豆泥",
+  "item.veggiesdelight.sweet_potato_pie": "红薯派",
+  "item.veggiesdelight.sweet_potato_pie_slice": "红薯派片",
+  "item.veggiesdelight.potato_noodle": "土豆面条",
+  "item.veggiesdelight.potato_noodles": "土豆面条",
+
+  "block.veggiesdelight.bellpeper_crate": "箱装甜椒",
+  "block.veggiesdelight.cauliflower_crate": "箱装花椰菜",
+  "block.veggiesdelight.sweet_potato_crate": "箱红薯",
+
+  "block.veggiesdelight.wild_bellpeppers": "野生甜椒",
+  "block.veggiesdelight.wild_cauliflowers": "野生花椰菜",
+  "block.veggiesdelight.wild_sweet_potatoes": "野生红薯",
+  "creativetab.veggiesdelight_tab": "吃素乐事",
+  "item.veggiesdelight.vegan_pizza": "素披萨",
+  "item.veggiesdelight.vegan_pizza_slice": "素披萨切片"
+}
