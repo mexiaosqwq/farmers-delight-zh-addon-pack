@@ -5,13 +5,16 @@
 
 ---
 ##  ⚠️使用前警告⚠️
-目前翻译为人工和机翻混合,难免有一些不通顺.无法理解.错别字或者翻译错的部分,介意勿用,大家也可以一共人工翻译的文件
+1.目前翻译为人工和机翻混合,难免有一些不通顺.无法理解.错别字或者翻译错的部分,介意勿用,大家也可以一共人工翻译的文件
+2.资源包制作时版本:1.20.1 forge&fabric
+3.使用前需添加i18n汉化资源包作为前置
 
 ## 🚀 使用方法
 1. **下载文件**：点击右侧 `Releases` 下载 `.zip` 汉化包。  
 2. **安装方法**：  
    打开游戏目录,把资源包放进`resourcepacks`文件夹中,进入游戏加载即可
-4. **反馈问题**：遇到翻译很模糊错误的情况？[提交 Issue](https://github.com/mexiaosqwq/farmers-delight-zh-addon/issues) 或联系邮箱 `tfhgbju@outlook.com或者1078628894@qq.com。
+4. **反馈问题**：遇到翻译很模糊错误的情况？
+[提交 Issue](https://github.com/mexiaosqwq/farmers-delight-zh-addon/issues) 或联系邮箱 `tfhgbju@outlook.com或者1078628894@qq.com。
 ## 💡 支持的附属汉化 💡
 <!-- 蓝色按钮 -->
    <a href="./doc" style="
