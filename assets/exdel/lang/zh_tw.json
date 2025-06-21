@@ -1,0 +1,22 @@
+{
+"block.exdel.luminous_orb": "燈籠",
+"item.exdel.illumination_necklace": "照明項鍊",
+"item.exdel.recall_potion": "回憶藥水",
+"item.exdel.assortment_pouch": "雜物袋",
+"item.exdel.mystery": "神秘材料",
+"item.exdel.mystery_arrow": "神秘箭",
+"item.exdel.ownerizer": "所有權器",
+"itemGroup.exdel": "探險者樂事",
+"entity.exdel.mystery_arrow": "神秘箭矢",
+"tooltip.exdel.ownerizer": "使用我以擁有一個功能性方塊，\n並允許一些事情自動發生！\n提示：我允許神秘箭矢\n與GOML/Flan聲明中的發射器一起使用",
+"message.exdel.ownerizer.success": "你現在擁有這個了！",
+"message.exdel.ownerizer.unownable": "這個無法被佔有",
+"message.exdel.ownerizer.already_owned": "這個已被他人佔有",
+"config.exdel.title": "配置探險者樂事模組",
+"config.exdel.general": "通用設定",
+"config.exdel.general.mystery_arrow": "神秘箭",
+"config.exdel.general.mystery_arrow.description": "配置神秘箭矢可能執行的每種動作的權重（即相對概率）。重要：要配置神秘箭矢影響哪些實體以及產生哪些效果，你需要編輯相應的標籤。",
+"config.exdel.general.mystery_arrow.aging_weight": "加權權重",
+"config.exdel.general.mystery_arrow.transformation_weight": "減權權重",
+"config.exdel.general.mystery_arrow.do_nothing_weight": "無效權重"
+}

@@ -1,23 +1,21 @@
 {
-  "item.fancydelight.katsu_curry": "咖喱猪排饭",
+  "item.fancydelight.katsu_curry": "咖喱猪扒饭",
   "item.fancydelight.estrogen_waffle": "华夫饼",
   "item.fancydelight.udon_noodles": "乌冬面",
-  "item.fancydelight.pulla": "巧克力蘸拉普拉",
-  "item.fancydelight.pretzel": "椒盐脆饼蘸巧克力酱",
+  "item.fancydelight.pulla": "巧克力蘸普拉面包",
+  "item.fancydelight.pretzel": "巧克力蘸椒盐卷饼",
   "item.fancydelight.sushi": "寿司",
   "item.fancydelight.wide_bread": "宽面包",
-  "item.fancydelight.clam_chowder": "蛤蜊浓汤",
+  "item.fancydelight.clam_chowder": "蛤蜊巧达浓汤",
   "item.fancydelight.ice_cream": "冰淇淋圣代",
   "item.fancydelight.chocolate_lava_cake": "巧克力熔岩蛋糕",
-  "item.fancydelight.pesto_pasta": "蒜香意面",
-  "item.fancydelight.rice_pudding": "大米布丁",
-  "item.fancydelight.chocolate_bar": "巧克力",
+  "item.fancydelight.pesto_pasta": "青酱意面",
+  "item.fancydelight.rice_pudding": "米布丁",
+  "item.fancydelight.chocolate_bar": "巧克力棒",
   "item.fancydelight.fried_rice": "炒饭",
   "item.fancydelight.estrogen_burger": "汉堡",
-  "item.fancydelight.flour": "小麦面粉",
+  "item.fancydelight.flour": "小麦粉",
 
-  "block.fancydelight.chocolate_lava_cake_block": "巧克力熔岩蛋糕块",
-  "block.fancydelight.udon_noodles_block": "乌冬面块",
-
-  "itemgroup.fancydelight": "精致乐事"
+  "block.fancydelight.chocolate_lava_cake_block": "巧克力熔岩蛋糕",
+  "block.fancydelight.udon_noodles_block": "乌冬面"
 }

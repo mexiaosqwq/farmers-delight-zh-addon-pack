@@ -1,0 +1,55 @@
+{
+"item.herbaldelight.smart_specs": "自動規格",
+ 
+"item.herbaldelight.green_tea_cup": "綠茶杯",
+"item.herbaldelight.green_tea_leaf": "綠茶葉",
+"item.herbaldelight.dried_green_tea_leaf": "乾綠茶葉",
+"item.herbaldelight.green_tea_seeds": "綠茶種子",
+ 
+"item.herbaldelight.black_tea_cup": "紅茶杯",
+"item.herbaldelight.black_tea_leaf": "紅茶葉",
+"item.herbaldelight.dried_black_tea_leaf": "乾紅茶葉",
+"item.herbaldelight.black_tea_seeds": "紅茶種子",
+ 
+"item.herbaldelight.hibiscus_tea_cup": "芙蓉花茶杯",
+"item.herbaldelight.hibiscus_tea_leaf": "芙蓉花",
+"item.herbaldelight.dried_hibiscus_tea_leaf": "乾芙蓉花",
+"item.herbaldelight.hibiscus_tea_seeds": "芙蓉花種子",
+ 
+"block.herbaldelight.green_tea_crop": "綠茶植株",
+"block.herbaldelight.black_tea_crop": "紅茶植株",
+"block.herbaldelight.hibiscus_tea_crop": "芙蓉花茶植株",
+ 
+"block.herbaldelight.green_tea_block": "綠茶葉塊",
+"block.herbaldelight.black_tea_block": "紅茶葉塊",
+"block.herbaldelight.hibiscus_tea_block": "芙蓉花塊",
+ 
+"block.herbaldelight.dried_green_tea_block": "乾綠茶葉塊",
+"block.herbaldelight.dried_black_tea_block": "乾紅茶葉塊",
+"block.herbaldelight.dried_hibiscus_tea_block": "乾芙蓉花塊",
+ 
+"block.herbaldelight.baked_green_tea_block": "烘焙綠茶葉",
+"block.herbaldelight.baked_green_tea_slab": "烘焙綠茶葉板",
+"block.herbaldelight.baked_green_tea_stairs": "烘焙綠茶葉階梯",
+ 
+"block.herbaldelight.baked_black_tea_block": "烘焙紅茶葉",
+"block.herbaldelight.baked_black_tea_slab": "烘焙紅茶葉板",
+"block.herbaldelight.baked_black_tea_stairs": "烘焙紅茶葉階梯",
+ 
+"block.herbaldelight.baked_hibiscus_tea_block": "烘焙芙蓉花",
+"block.herbaldelight.baked_hibiscus_tea_slab": "烘焙芙蓉花板",
+"block.herbaldelight.baked_hibiscus_tea_stairs": "烘焙芙蓉花階梯",
+ 
+"block.herbaldelight.baked_green_tea_bricks": "烘焙綠茶葉磚",
+"block.herbaldelight.baked_green_tea_brick_slab": "烘焙綠茶葉磚板",
+"block.herbaldelight.baked_green_tea_brick_stairs": "烘焙綠茶葉磚階梯",
+ 
+"block.herbaldelight.baked_black_tea_bricks": "烘焙紅茶葉磚",
+"block.herbaldelight.baked_black_tea_brick_slab": "烘焙紅茶葉磚板",
+"block.herbaldelight.baked_black_tea_brick_stairs": "烘焙紅茶葉磚階梯",
+ 
+"block.herbaldelight.baked_hibiscus_tea_bricks": "烘焙芙蓉花磚",
+"block.herbaldelight.baked_hibiscus_tea_brick_slab": "烘焙芙蓉花磚板",
+"block.herbaldelight.baked_hibiscus_tea_brick_stairs": "烘焙芙蓉花磚階梯",
+"itemgroup.tea": "草藥樂事"
+}

@@ -1,0 +1,16 @@
+{
+  "death.attack.was_watered": "%1$s溶解于了水",
+  "itemGroup.endersdelight": "末影乐事",
+  "block.endersdelight.amberveil_mushroom": "琥珀面纱菇",
+  "block.endersdelight.ethereal_saffron_bush": "虚幻藏红花",
+  "block.endersdelight.chorusflame_bush": "紫颂焰",
+  "block.endersdelight.voidpepper_bush": "虚空椒",
+  "item.endersdelight.amberveil_stew": "琥珀面纱炖菜",
+  "item.endersdelight.amberveiled_curry": "琥珀面纱咖喱",
+  "item.endersdelight.chicken_curry": "鸡肉咖喱",
+  "item.endersdelight.steak_fries": "牛排配薯条",
+  "item.endersdelight.veil_of_flames_risotto": "烈焰面纱烩饭",
+  "tooltip.endersdelight.shulker_mollusk": "使用刀击杀潜影贝获得",
+  "tooltip.endersdelight.mite_crust": "使用刀击杀末影螨获得",
+  "tooltip.endersdelight.enderman_sight": "使用刀击杀末影人获得"
+}
