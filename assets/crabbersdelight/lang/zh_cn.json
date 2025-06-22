@@ -1,4 +1,29 @@
 {
-    "crabbersdelight.jei.crab_trap_loot": "蟹笼",
-    "crabbersdelight.block.crab_trap.insufficient_surrounding_water": "蟹笼需要周围有3x3的水才能正常使用！"
+  "item.crabbersdelight.fish_bones": "鱼骨",
+
+  "block.crabbersdelight.scute_block": "鳞甲块",
+  "block.crabbersdelight.sea_pickle_crate": "海泡菜板条箱",
+
+  "crabbersdelight.jei.crab_trap_loot": "捕蟹笼",
+
+  "tag.item.crabbersdelight.raw_seafood": "生海鲜",
+  "tag.item.crabbersdelight.cooked_seafood": "熟海鲜",
+
+  "tag.item.crabbersdelight.raw_squid": "生鱿鱼",
+  "tag.item.crabbersdelight.cooked_squid": "熟鱿鱼",
+
+  "tag.item.crabbersdelight.crab_tempt_item": "螃蟹诱饵",
+  "tag.item.crabbersdelight.crab_trap_bait": "捕蟹笼诱饵",
+
+  "tag.item.crabbersdelight.creature_chums": "生物诱饵",
+
+  "tag.item.crabbersdelight.jei_display_results.crabbersdelight.bucket_of_clam_chum": "蛤蜊酱诱饵",
+  "tag.item.crabbersdelight.jei_display_results.crabbersdelight.bucket_of_clawster_chum": "龙虾酱诱饵",
+  "tag.item.crabbersdelight.jei_display_results.crabbersdelight.bucket_of_crab_chum": "螃蟹酱诱饵",
+  "tag.item.crabbersdelight.jei_display_results.crabbersdelight.bucket_of_shrimp_chum": "虾酱诱饵",
+  "tag.item.crabbersdelight.jei_display_results.minecraft.air": "无诱饵",
+  "tag.item.crabbersdelight.jei_display_results.minecraft.cod": "鳕鱼诱饵",
+  "tag.item.crabbersdelight.jei_display_results.minecraft.pufferfish": "河豚诱饵",
+  "tag.item.crabbersdelight.jei_display_results.minecraft.salmon": "鲑鱼诱饵",
+  "tag.item.crabbersdelight.jei_display_results.minecraft.tropical_fish": "热带鱼诱饵"
 }
