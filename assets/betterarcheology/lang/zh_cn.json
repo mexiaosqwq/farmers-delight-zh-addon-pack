@@ -1,9 +1,0 @@
-{
-  "advancements.netherite_brush.title": "疯狂的投资",
-  "advancements.netherite_brush.description": "有时，通往伟大的道路是由可疑的选择铺就的——但绝不是用粉尘铺就的",
-  "item.betterarcheology.netherite_brush": "下界合金刷子",
-  "enchantment.betterarcheology.tunneling.desc": "也会破坏被挖掘方块下面的方块。按住[SHIFT]可禁用效果",
-  "filled_map.catacombs": "地下墓穴探索者地图",
-  "filled_map.light": "光明神殿探索者地图",
-  "config.notify.disabled": "此功能已在配置中禁用！"
-}
