@@ -1,0 +1,30 @@
+{
+  "item_Group.roasted": "烘烤",
+
+  "item.roasted.marshmallow": "棉花糖",
+  "item.roasted.marshmallow_on_a_stick": "棉花糖串",
+  "item.roasted.soul_marshmallow_on_a_stick": "灵魂棉花糖串",
+  "item.roasted.toasted_marshmallow_on_a_stick": "烤棉花糖串",
+  "item.roasted.unroasted_smore": "夹心饼干",
+  "item.roasted.warm_smore": "烤温的夹心饼干",
+  "item.roasted.perfect_smore": "最佳的夹心饼干",
+  "item.roasted.burnt_smore": "烤焦的夹心饼干",
+  "item.roasted.charred_smore": "焦黑的夹心饼干",
+
+  "block.roasted.pile_of_marshmallows": "棉花糖块",
+  "block.roasted.pile_of_warm_marshmallows": "温暖的棉花糖块",
+  "block.roasted.pile_of_perfect_marshmallows": "完美的棉花糖块",
+  "block.roasted.pile_of_burnt_marshmallows": "烧焦的棉花糖块",
+  "block.roasted.pile_of_charred_marshmallows": "焦黑的棉花糖块",
+
+  "roasted.roastedness.unroasted": "未烤",
+  "roasted.roastedness.warm": "温暖",
+  "roasted.roastedness.perfect": "完美",
+  "roasted.roastedness.burnt": "烧焦",
+  "roasted.roastedness.charred": "焦黑",
+
+  "roasted.marshmallow.title": "棉花糖",
+  "roasted.marshmallow.desc": "使用8个糖来制作一些棉花糖",
+  "roasted.roasted_marshmallow.title": "烤至完美！",
+  "roasted.roasted_marshmallow.desc": "在篝火上烤一个棉花糖\n注意：不要烤太久！"
+}

@@ -1,0 +1,182 @@
+{
+  "block.cafesbirding.iron_grate": "铁格栅",
+  "block.cafesbirding.light_iron_grate": "轻型铁格栅",
+
+  "painting.cafesbirding.sunflower.title": "向日葵",
+  "painting.cafesbirding.sunflower.author": "Café",
+  "painting.cafesbirding.son_of_a_men.title": "人鸟",
+  "painting.cafesbirding.son_of_a_men.author": "Maserioto",
+  "painting.cafesbirding.birb.title": "小鸟",
+  "painting.cafesbirding.birb.author": "Maserioto",
+
+  "item.cafesbirding.sparrow_spawn_egg": "麻雀生成蛋",
+  "item.cafesbirding.capercaillie_spawn_egg": "松鸡生成蛋",
+  "item.cafesbirding.spiderhunter_spawn_egg": "捕蛛鸟生成蛋",
+  "item.cafesbirding.jackdaw_spawn_egg": "寒鸦生成蛋",
+  "item.cafesbirding.parrot_egg": "鹦鹉蛋",
+  "item.cafesbirding.sparrow_egg": "麻雀蛋",
+  "item.cafesbirding.capercaillie_egg": "松鸡蛋",
+  "item.cafesbirding.spiderhunter_egg": "捕蛛鸟蛋",
+  "item.cafesbirding.jackdaw_egg": "寒鸦蛋",
+  "item.cafesbirding.raw_bird_thigh": "生松鸡腿",
+  "item.cafesbirding.cooked_bird_thigh": "熟松鸡腿",
+  "item.cafesbirding.milanese": "米兰风味炸肉排",
+  "item.cafesbirding.milanese_with_potatoes": "土豆米兰风味炸肉排",
+  "item.cafesbirding.sparrow_feather": "麻雀羽毛",
+  "item.cafesbirding.capercaillie_feather": "松鸡羽毛",
+  "item.cafesbirding.jackdaw_feather": "寒鸦羽毛",
+  "item.cafesbirding.parrot_feather": "鹦鹉羽毛",
+  "item.cafesbirding.mysterious_feather": "神秘羽毛",
+  "item.cafesbirding.breadcrumbs": "面包屑",
+  "item.cafesbirding.seed_cookie": "种子饼干",
+  "item.cafesbirding.soul_cookie": "灵魂饼干",
+  "item.cafesbirding.spider_leg": "蜘蛛腿",
+  "item.cafesbirding.disc_fragment_nitid": "唱片碎片",
+
+  "effect.cafesbirding.soulless": "无魂",
+
+  "item.minecraft.potion.effect.cb_hunger": "饥饿药水",
+  "item.minecraft.splash_potion.effect.cb_hunger": "喷溅型饥饿药水",
+  "item.minecraft.lingering_potion.effect.cb_hunger": "滞留型饥饿药水",
+  "item.minecraft.tipped_arrow.effect.cb_hunger": "饥饿之箭",
+
+  "item.minecraft.potion.effect.long_cb_hunger": "饥饿药水",
+  "item.minecraft.splash_potion.effect.long_cb_hunger": "喷溅型饥饿药水",
+  "item.minecraft.lingering_potion.effect.long_cb_hunger": "滞留型饥饿药水",
+  "item.minecraft.tipped_arrow.effect.long_cb_hunger": "饥饿之箭",
+
+  "item.minecraft.potion.effect.strong_cb_hunger": "饥饿药水",
+  "item.minecraft.splash_potion.effect.strong_cb_hunger": "喷溅型饥饿药水",
+  "item.minecraft.lingering_potion.effect.strong_cb_hunger": "滞留型饥饿药水",
+  "item.minecraft.tipped_arrow.effect.strong_cb_hunger": "饥饿之箭",
+
+  "effect.cafesbirding.feathery": "羽毛",
+
+  "item.minecraft.potion.effect.feathery": "羽毛药水",
+  "item.minecraft.splash_potion.effect.feathery": "喷溅型羽毛药水",
+  "item.minecraft.lingering_potion.effect.feathery": "滞留型羽毛药水",
+  "item.minecraft.tipped_arrow.effect.feathery": "羽毛之箭",
+
+  "item.minecraft.potion.effect.long_feathery": "羽毛药水",
+  "item.minecraft.splash_potion.effect.long_feathery": "喷溅型羽毛药水",
+  "item.minecraft.lingering_potion.effect.long_feathery": "滞留型羽毛药水",
+  "item.minecraft.tipped_arrow.effect.long_feathery": "羽毛之箭",
+
+  "item.minecraft.potion.effect.strong_feathery": "羽毛药水",
+  "item.minecraft.splash_potion.effect.strong_feathery": "喷溅型羽毛药水",
+  "item.minecraft.lingering_potion.effect.strong_feathery": "滞留型羽毛药水",
+  "item.minecraft.tipped_arrow.effect.strong_feathery": "羽毛之箭",
+
+  "effect.cafesbirding.satiation": "饱和",
+
+  "item.minecraft.potion.effect.satiation": "饱和药水",
+  "item.minecraft.splash_potion.effect.satiation": "喷溅型饱和药水",
+  "item.minecraft.lingering_potion.effect.satiation": "滞留型饱和药水",
+  "item.minecraft.tipped_arrow.effect.satiation": "饱和之箭",
+
+  "item.minecraft.potion.effect.long_satiation": "饱和药水",
+  "item.minecraft.splash_potion.effect.long_satiation": "喷溅型饱和药水",
+  "item.minecraft.lingering_potion.effect.long_satiation": "滞留型饱和药水",
+  "item.minecraft.tipped_arrow.effect.long_satiation": "饱和之箭",
+
+  "item.minecraft.potion.effect.strong_satiation": "饱和药水",
+  "item.minecraft.splash_potion.effect.strong_satiation": "喷溅型饱和药水",
+  "item.minecraft.lingering_potion.effect.strong_satiation": "滞留型饱和药水",
+  "item.minecraft.tipped_arrow.effect.strong_satiation": "饱和之箭",
+
+  "effect.cafesbirding.umbra": "暗影",
+
+  "item.minecraft.potion.effect.umbra": "暗影药水",
+  "item.minecraft.splash_potion.effect.umbra": "喷溅型暗影药水",
+  "item.minecraft.lingering_potion.effect.umbra": "滞留型暗影药水",
+  "item.minecraft.tipped_arrow.effect.umbra": "暗影之箭",
+
+  "item.minecraft.potion.effect.long_umbra": "暗影药水",
+  "item.minecraft.splash_potion.effect.long_umbra": "喷溅型暗影药水",
+  "item.minecraft.lingering_potion.effect.long_umbra": "滞留型暗影药水",
+  "item.minecraft.tipped_arrow.effect.long_umbra": "暗影之箭",
+
+  "effect.cafesbirding.haleness": "健壮",
+
+  "item.minecraft.potion.effect.haleness": "健壮药水",
+  "item.minecraft.splash_potion.effect.haleness": "喷溅型健壮药水",
+  "item.minecraft.lingering_potion.effect.haleness": "滞留型健壮药水",
+  "item.minecraft.tipped_arrow.effect.haleness": "健壮之箭",
+
+  "item.minecraft.potion.effect.long_haleness": "健壮药水",
+  "item.minecraft.splash_potion.effect.long_haleness": "喷溅型健壮药水",
+  "item.minecraft.lingering_potion.effect.long_haleness": "滞留型健壮药水",
+  "item.minecraft.tipped_arrow.effect.long_haleness": "健壮之箭",
+
+  "effect.cafesbirding.ravenous": "贪婪",
+
+  "item.minecraft.potion.effect.ravenous": "贪婪药水",
+  "item.minecraft.splash_potion.effect.ravenous": "喷溅型贪婪药水",
+  "item.minecraft.lingering_potion.effect.ravenous": "滞留型贪婪药水",
+  "item.minecraft.tipped_arrow.effect.ravenous": "贪婪之箭",
+
+  "item.minecraft.potion.effect.long_ravenous": "贪婪药水",
+  "item.minecraft.splash_potion.effect.long_ravenous": "喷溅型贪婪药水",
+    "item.minecraft.lingering_potion.effect.long_ravenous": "滞留型贪婪药水",
+  "item.minecraft.tipped_arrow.effect.long_ravenous": "强化贪婪之箭",
+
+  "effect.cafesbirding.arachnid": "蜘蛛",
+
+  "item.minecraft.potion.effect.arachnid": "蜘蛛药水",
+  "item.minecraft.splash_potion.effect.arachnid": "喷溅型蜘蛛药水",
+  "item.minecraft.lingering_potion.effect.arachnid": "滞留型蜘蛛药水",
+  "item.minecraft.tipped_arrow.effect.arachnid": "蜘蛛之箭",
+
+  "item.minecraft.potion.effect.long_arachnid": "蜘蛛药水",
+  "item.minecraft.splash_potion.effect.long_arachnid": "喷溅型蜘蛛药水",
+  "item.minecraft.lingering_potion.effect.long_rarachnid": "滞留型蜘蛛药水",
+  "item.minecraft.tipped_arrow.effect.long_arachnid": "蜘蛛之箭",
+
+  "item.cafesbirding.music_disc_feathers": "音乐唱片",
+  "item.cafesbirding.music_disc_feathers.desc": "Café - Feathers",
+  "item.cafesbirding.music_disc_grouch": "音乐唱片",
+  "item.cafesbirding.music_disc_grouch.desc": "Café - Grouch",
+  "item.cafesbirding.music_disc_pollen": "音乐唱片",
+  "item.cafesbirding.music_disc_pollen.desc": "Café - Pollen",
+  "item.cafesbirding.music_disc_nitid": "音乐唱片",
+  "item.cafesbirding.music_disc_nitid.desc": "Café - Nitid",
+  "item.cafesbirding.music_disc_ashes": "音乐唱片",
+  "item.cafesbirding.music_disc_ashes.desc": "Café - Ashes",
+
+  "item.cafesbirding.disc_fragment_nitid.desc": "音乐唱片 - Nitid",
+
+  "cafesbirding_sparrow_egg_item_lore_": "???",
+  "cafesbirding_sparrow_egg_item_lore_0": "棕色",
+  "cafesbirding_sparrow_egg_item_lore_1": "秋天",
+  "cafesbirding_sparrow_egg_item_lore_2": "雪白",
+  "cafesbirding_sparrow_egg_item_lore_3": "真菌",
+
+  "itemgroup.cafes_birding": "Café's Birding",
+
+  "entity.cafesbirding.sparrow": "麻雀",
+  "entity.cafesbirding.capercaillie": "松鸡",
+  "entity.cafesbirding.spiderhunter": "捕蛛鸟",
+  "entity.cafesbirding.jackdaw": "寒鸦",
+
+  "sounds.cafesbirding.sparrow_ambient": "麻雀唱歌",
+  "sounds.cafesbirding.sparrow_damage": "麻雀受伤",
+  "sounds.cafesbirding.sparrow_dies": "麻雀死亡",
+
+  "sounds.cafesbirding.capercaillie_ambient": "松鸡鸣叫",
+  "sounds.cafesbirding.capercaillie_damage": "松鸡受伤",
+  "sounds.cafesbirding.capercaillie_dies": "松鸡死亡",
+
+  "sounds.cafesbirding.spiderhunter_ambient": "捕蛛鸟唱歌",
+  "sounds.cafesbirding.spiderhunter_damage": "捕蛛鸟受伤",
+  "sounds.cafesbirding.spiderhunter_dies": "捕蛛鸟死亡",
+
+  "sounds.cafesbirding.jackdaw_ambient": "寒鸦鸣叫",
+  "sounds.cafesbirding.jackdaw_damage": "寒鸦受伤",
+  "sounds.cafesbirding.jackdaw_dies": "寒鸦死亡",
+
+  "sounds.cafesbirding.feathers_music_disc": "音乐",
+  "sounds.cafesbirding.grouch_music_disc": "音乐",
+  "sounds.cafesbirding.pollen_music_disc": "音乐",
+  "sounds.cafesbirding.nitid_music_disc": "音乐",
+  "sounds.cafesbirding.ashes_music_disc": "???"
+}

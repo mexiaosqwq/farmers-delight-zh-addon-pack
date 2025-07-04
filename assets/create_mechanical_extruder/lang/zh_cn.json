@@ -1,0 +1,18 @@
+{
+  "block.create_mechanical_extruder.mechanical_brass_extruder": "动力黄铜造石机",
+  "block.create_mechanical_extruder.mechanical_extruder": "动力造石机",
+  "create_mechanical_extruder.goggles.bonks": "%1$s 次冲压",
+  "create_mechanical_extruder.itemGroup:main": "动力造石机",
+  "create_mechanical_extruder.ponder.extruder.header": "方块生成",
+  "create_mechanical_extruder.ponder.extruder.text_1": "动力造石机利用旋转应力来生成方块",
+  "create_mechanical_extruder.ponder.extruder.text_2": "生成何种方块取决于其侧面与下方的方块。",
+  "create_mechanical_extruder.ponder.extruder.text_3": "生成完成后，可右键取出产物",
+  "create_mechanical_extruder.ponder.extruder.text_4": "产物也可以通过自动化设备进行提取",
+  "create_mechanical_extruder.ponder.extruder.text_5": "当一种原料组合有多种可能的产物时，可以使用筛选器栏位来指定其中一种。",
+  "create_mechanical_extruder.recipe.extruding": "造石配方",
+  "create_mechanical_extruder.ui.recipe.extruding.consumes_block": "消耗方块",
+  "mechanicals.ui.recipe_requirement.advanced_extruder.tooltip.title": "需要：黄铜造石机",
+  "mechanicals.ui.recipe_requirement.advanced_extruder.tooltip.value": "",
+  "mechanicals.ui.recipe_requirement.bonks.tooltip.title": "冲压次数：",
+  "mechanicals.ui.recipe_requirement.bonks.tooltip.value": "%s"
+}

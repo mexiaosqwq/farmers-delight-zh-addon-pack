@@ -1,0 +1,11 @@
+ {
+  "option.ebe.render_enhanced_decorated_pots": "优化装饰罐",
+  "option.ebe.render_enhanced_decorated_pots.comment": "启用烘焙装饰罐模型，极大地提高多装饰罐区域的性能。还能在远处看见装饰罐。如果装饰罐不可见或模组的陶器图案无法正常工作，尝试禁用解决。",
+  "option.ebe.decorated_pot_ao": "平滑装饰罐光照",
+  "option.ebe.decorated_pot_ao.comment": "允许装饰罐使用平滑光照和环境光遮蔽。需要启用优化装饰罐。",
+  "option.ebe.force_resource_pack_compat": "强制资源包兼容性",
+  "option.ebe.force_resource_pack_compat.comment": "如果在使用资源包时方块不可见，请启用此选项。不要与专为此模组设计的资源包一起使用。如果问题仍存在，请报告。",
+  "warning.ebe.overridden": "被 '%s' 覆盖",
+  "text.ebe.decorated_pot_options": "装饰罐选项",
+  "text.ebe.advanced": "高级"
+}
